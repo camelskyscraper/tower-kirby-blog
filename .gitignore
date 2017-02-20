@@ -4,6 +4,12 @@
 Icon
 .DS_Store
 
+# Sass
+.sass-cache/
+
+# Sublime
+*.sublime-workspace
+
 # Temporary files
 # ---------------
 
